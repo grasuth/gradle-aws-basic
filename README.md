@@ -1,0 +1,1 @@
+# SQS -> Kinesis Adapter Test
