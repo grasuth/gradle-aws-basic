@@ -1,1 +1,1 @@
-# SQS -> Kinesis Adapter Test
+# Basic gradle template for AWS services
